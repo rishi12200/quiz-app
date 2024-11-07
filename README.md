@@ -31,7 +31,7 @@ npm start
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
 The page will reload if you make edits. You may also see any lint errors in the console.
-npm test
+“### `npm test`”
 Launches the test runner in interactive watch mode.
 npm run build
 Builds the app for production to the build folder.
