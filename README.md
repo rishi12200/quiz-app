@@ -8,7 +8,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <repository-url>
+“git clone <repository-url>”
 Navigate to the project directory:
 
 bash
