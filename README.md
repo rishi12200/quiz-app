@@ -1,37 +1,44 @@
-# Quiz Application
+Quiz Application
 This project was bootstrapped with Create React App.
 
-## Getting Started
-1.To set up the project locally:
+“Getting Started”
+To set up the project locally:
 
-2.Clone the repository.
-Run:
+Clone the repository:
+
+bash
+Copy code
+git clone <repository-url>
+Navigate to the project directory:
+
+bash
+Copy code
+cd quiz-application
+Install dependencies:
+
 bash
 Copy code
 npm install
-This installs the necessary dependencies.
+Run the application:
 
-Then, you can use the following commands to run and build the app:
-## Available Scripts
+bash
+Copy code
+npm start
+Available Scripts
 In the project directory, you can run:
 
-<code>npm start</code>
-
+npm start
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
-The page will reload if you make edits, and you may see lint errors in the console.
-
-<code>npm test</code>
-
+The page will reload if you make edits. You may also see any lint errors in the console.
+npm test
 Launches the test runner in interactive watch mode.
-
-<code>npm run build</code>
-
-Builds the app for production in the build folder.
-It optimizes the React build for the best performance, with minified code and hashed filenames for deployment.
-
-<code>npm run eject</code>
-
+npm run build
+Builds the app for production to the build folder.
+It bundles React in production mode, optimizes the code for performance, and includes hashed filenames for caching.
+npm run eject
 Note: This is a one-way operation. Once you eject, you can’t go back!
-If needed, this command lets you fully customize the configuration by copying dependencies like webpack, Babel, and ESLint directly into your project.
 
+If you need full control over the configuration, run this command to copy dependencies like webpack, Babel, and ESLint into your project.
+Deployment
+The app is ready to be deployed after running the npm run build command. Check out the Create React App deployment guide for detailed instructions.
