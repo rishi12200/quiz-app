@@ -1,10 +1,11 @@
-#Quiz Application
+# Quiz Application
 This project was bootstrapped with Create React App.
 
-#Available Scripts
+# Available Scripts
 In the project directory, you can run:
 
 <code>npm start</code>
+
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
 The page will reload if you make edits, and you may see lint errors in the console.
