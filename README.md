@@ -1,7 +1,18 @@
 # Quiz Application
 This project was bootstrapped with Create React App.
 
-# Available Scripts
+## Getting Started
+1.To set up the project locally:
+
+2.Clone the repository.
+Run:
+bash
+Copy code
+npm install
+This installs the necessary dependencies.
+
+Then, you can use the following commands to run and build the app:
+## Available Scripts
 In the project directory, you can run:
 
 <code>npm start</code>
